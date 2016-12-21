@@ -7,7 +7,7 @@ Recipes were made with:
 - pydot 1.2.2
 - graphviz 2.38.0 (Tip: on Windows add directory with dot.exe (in my case ...\Anaconda2\Library\bin\graphviz) to Path environment variable)
 
-### Notes
+## Notes
 
 #### Recipe #1
 
