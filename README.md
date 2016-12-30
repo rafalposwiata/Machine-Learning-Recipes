@@ -21,6 +21,6 @@ Testing Data are examples used to "test" the classifier's accuracy (not part of 
 
 #### Recipe #3
 
-Features should capture different types of information. Avoid useless and redundant features.
+Features should capture different types of information. Independent and easy to understand features are best.
 
-Independent and easy to understand features are best.
+Avoid useless and redundant features.
