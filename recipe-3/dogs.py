@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+# number of dogs
 greyhounds = 500
 labradors = 500
 
