@@ -28,3 +28,21 @@ Avoid useless and redundant features.
 #### Recipe #4
 
 Classifier is a function ```f(x) = y``` where f(x) represents features and y is label.
+
+#### Recipe #5
+
+KNN (K nearest neighbor) is based on minimum distance (for example Euclidean distance) from the query instance to the training
+samples to determine the K-nearest neighbors. After you gather K nearest neighbors, you take simple majority of these
+K-nearest neighbors to be the prediction of the query instance.
+
+Pros:
+
+- relatively simple,
+
+- working well for some problems.
+
+Cons:
+
+- computationally intensive,
+
+- hard to represent relationships between features.
