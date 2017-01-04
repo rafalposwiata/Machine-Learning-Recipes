@@ -27,4 +27,4 @@ Avoid useless and redundant features.
 
 #### Recipe #4
 
-Classifier is a function:  ```f(x) = y```  where f(x) represents features and y is label.
+Classifier is a function ```f(x) = y``` where f(x) represents features and y is label.
