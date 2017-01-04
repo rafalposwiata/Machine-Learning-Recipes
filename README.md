@@ -24,3 +24,11 @@ Testing Data are examples used to "test" the classifier's accuracy (not part of 
 Features should capture different types of information. Independent and easy to understand features are best.
 
 Avoid useless and redundant features.
+
+#### Recipe #4
+
+Classifier is a function:
+
+```f(x) = y```
+
+where f(x) represents features and y is label.
