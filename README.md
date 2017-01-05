@@ -46,3 +46,13 @@ Cons:
 - computationally intensive,
 
 - hard to represent relationships between features.
+
+#### Recipe #6
+
+All required ingredients for this recipe you can find on https://codelabs.developers.google.com/codelabs/tensorflow-for-poets
+
+Deep learning works on raw pixels from image so you not need to extract features manually.
+
+Retraining also known as Transfer Learning leverages prior work and use previously trained model (in our case 'Inception').
+
+Clue for image classifier are diversity and quantity, which mean we should have a lot of different images in each category.
