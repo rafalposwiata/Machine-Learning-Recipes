@@ -1,4 +1,4 @@
-# Machine-Learning-Recipes
+# Machine Learning Recipes
 Repo for Machine Learning Recipes with Josh Gordon from Google
 
 Recipes were made with:
